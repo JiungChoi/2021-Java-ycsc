@@ -10,9 +10,9 @@ class Main {
     int y = scanner.nextInt();
 
     if (((x>=100) && (x <=200)) && ((y>=100) && (y <=200)))
-      System.out.print("상자 안에 있습니다.");
+      System.out.print("("+x+","+y+") 는 상자 안에 있습니다.");
     else
-      System.out.print("상자 안에 없습니다.");
+      System.out.print("("+x+","+y+") 는 상자 안에 없습니다.");
       
 
 
