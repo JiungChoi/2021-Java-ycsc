@@ -6,5 +6,5 @@ ScannerSampleCode
 
 ## ch02
 
-multiArrayHandlingCode
+multiArrayHandlingCode \n
 exceptionHandlingCode
