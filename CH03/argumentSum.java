@@ -8,9 +8,6 @@ class Add{
       try{
         sum += Integer.parseInt(args[i]);
       }
-      catch(InputMismatchException e){
-        continue;
-      }
       catch(NumberFormatException e){
         continue;
       }
