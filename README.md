@@ -1,7 +1,8 @@
 # Java
 2021-JAVA-YUSC
 
-### ch = 자습 ,  CH = 
+### ch = 자습 ,  CH = 실습
+
 
 ## ch01
 ScannerSampleCode
