@@ -2,8 +2,9 @@
 2021-JAVA-YUSC
 
 ## ch01
-Scanner
+ScannerSampleCode
 
 ## ch02
 
-exceptionHandling
+multiArrayHandlingCode
+exceptionHandlingCode
