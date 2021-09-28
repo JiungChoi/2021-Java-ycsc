@@ -12,3 +12,8 @@ ScannerSampleCode
 multiArrayHandlingCode 
 
 exceptionHandlingCode
+
+## CH03
+
+exceptionHandling && Scanner Trainning
+
