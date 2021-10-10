@@ -22,3 +22,7 @@ Object Method Instance Class
 Public static private default ..
 
 ## CH05
+handling class 
+
+## ch06
+extends class practice
