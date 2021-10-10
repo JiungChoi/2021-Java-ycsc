@@ -25,4 +25,5 @@ Public static private default ..
 handling class 
 
 ## ch06
-extends class practice
+Extends class practice
+Handling access
