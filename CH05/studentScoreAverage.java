@@ -28,3 +28,25 @@ class Grade{
    return (math + science + english)/3. ;
  }
 }
+
+
+
+##### OR #####
+
+
+
+public class Grade{
+  private int math;
+  private int science;
+  private int english;
+
+  public Grade(int math, int sci, int eng){
+    this.math = math;
+    this.science = sci;
+    this.english = eng;
+  }
+
+  public int average(){
+   return (math + science + english) / 3 ;
+ }
+}
