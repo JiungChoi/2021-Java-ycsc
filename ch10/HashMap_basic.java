@@ -18,8 +18,9 @@ class Main {
       }
 
       String kor = dic.get(word);
-      if(kor == null) System.out.print("없는 단어 입니다."));
-      else System.out.print(kor);
+      if(kor == null) 
+        System.out.print("없는 단어 입니다.");
+      else System.out.println(kor);
     }
     
     
